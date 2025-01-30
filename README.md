@@ -20,11 +20,6 @@ The dataset used is a `.txt` file containing **Shakespeare's sonnets**. The data
 
 ## Instructions to Run the Code
 
-### Prerequisites
-- A Google account with access to **Google Drive**.
-- **Google Colab** to run the Jupyter notebook.
-- `shakespeare.txt` dataset file stored in your Google Drive.
-
 ### Steps
 1. **Download** `shakespeare.txt` and save it in your Google Drive.
 2. **Open** `NLP_Assignment1.ipynb` with **Colab**.
